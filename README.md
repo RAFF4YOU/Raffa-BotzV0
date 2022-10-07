@@ -89,7 +89,7 @@ $ apt update && upgrade -y
 $ pkg install ffmpeg
 $ pkg install nodejs-lts
 $ pkg install git
-$ git clone https://github.com/Warikrr/Rul1
+$ git clone https://github.com/RAFF4YOU/Raffa-BotzV0
 $ cd Rul1
 $ npm i
 $ node .
